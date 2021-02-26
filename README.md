@@ -1,4 +1,4 @@
-# TwitterWhiteSupremacistDataset
+# WhiteSupremacistDataset
 A dataset for white supremacist tweets on twitter 
 We had to collect the most recent white supremacist terms from a recently available platform such as Twitter. We select a randomly sample of 1,999 tweets and annotate the tweets in Amazon Mechanical Turk (AMT) ("Amazon Mechanical Turk," 2018). We then annotated the data, we chose the annotators to be from North America to ensure they have sufficient knowledge and culture, and they have at least 85% hit approval which is criteria for trusted annotators in AMT. 
 The guidelines of the annotation are presented in Appendix A – Annotation Guidelines of White Supremacist Tweets. The annotation form initially consists of four labels as following:
